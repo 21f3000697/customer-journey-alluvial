@@ -1,0 +1,18 @@
+source,target,value
+Social Media,Awareness,420
+Referral,Awareness,380
+Search Engine,Awareness,510
+Email Campaign,Awareness,295
+TV Ads,Awareness,180
+Awareness,Interest,900
+Interest,Consideration,650
+Interest,Drop-off,250
+Consideration,Purchase,420
+Consideration,Drop-off,230
+Social Media,Interest,280
+Referral,Interest,240
+Search Engine,Consideration,180
+Email Campaign,Interest,150
+TV Ads,Interest,120
+Purchase,Loyalty,300
+Drop-off,Exit,480
